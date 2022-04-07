@@ -2,7 +2,7 @@
 
 The code has been developed in Julia as a code accompanying the Barunik and Hanus (2022) paper, and provides estimation of probability distributions using *distributional deep learning* introduced in
 
-Baruník, J. and Ellington, M. (2021): *Learning Probability Distributions in Macroeconomics and Finance*, manuscript [available here for download](https://barunik.github.io)
+Baruník, J. and Hanus, L. (2022): *Learning Probability Distributions in Macroeconomics and Finance*, manuscript [available here for download](https://barunik.github.io)
 
 
 ## Software requirements
